@@ -1,0 +1,11 @@
+runs/
+exports/
+exports_interim/
+cache_dets/
+pred_mot_base/
+pred_mot_t*/
+pred_mot_bt/
+*.onnx
+*.pth
+__pycache__/
+*.egg-info/

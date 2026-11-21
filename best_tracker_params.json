@@ -1,0 +1,10 @@
+{
+  "high_thr": 0.3,
+  "low_thr": 0.1,
+  "new_thr": 0.3,
+  "match_iou": 0.2,
+  "low_iou": 0.4,
+  "max_age": 15,
+  "min_hits": 3,
+  "interp_gap": 20
+}
